@@ -1,0 +1,40 @@
+.about{
+    padding: 100px 10px;
+    width: 100%;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient( to  right, #91d1f7, #fafafa, #84f8b877);
+	
+
+
+}
+
+.about h2{
+    width: 100%;
+    text-align: center;
+    padding: 70px 0px;
+    font-weight: 500;
+    font-size:xx-large;
+    text-decoration:underline;
+}
+
+.aboutP{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 10px;
+    box-shadow: -10px 0px 10px -9px rgb(15, 15, 15),
+                 10px 0px 10px -9px rgb(12, 12, 12);
+}
+
+.about p{
+    width: 80%;
+    margin-bottom: 10px;
+    text-align: start;
+    font-weight: 500;
+    color: rgb(82, 80, 80);
+}
+

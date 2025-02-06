@@ -1,0 +1,28 @@
+.contact{
+    height: 100px;
+    width: 100%;
+    color: white;
+    background-color: rgb(51, 51, 51);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+    gap: 10px;
+}
+
+.contact h3{
+    font-size:x-large;
+}
+
+
+.contact img{
+    width: 30px;
+    height: 30px;
+    border: 2px solid white;
+    margin: 0px 3px;
+}
+
+.contact img:hover{
+    box-shadow: 5px 5px 10px white;
+    border: none;
+}

@@ -1,0 +1,40 @@
+.skill{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding:100px 0px;
+    background: linear-gradient( to  right, #91d1f7, #fafafa, #84f8b877);
+	
+    
+
+}
+.skill h2{
+    width: 100%;
+    text-align: center;
+    padding: 70px 0px;
+    font-weight: 500;
+    font-size:xx-large;
+    text-decoration:underline;
+}
+
+.skill .skillDiv{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;    
+    gap: 10px;
+}
+
+
+.skill1{
+    width: fit-content;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: large;
+    color: black;
+    background-color: white;
+    box-shadow: 1px 1px 5px rgb(2, 15, 92); 
+}
