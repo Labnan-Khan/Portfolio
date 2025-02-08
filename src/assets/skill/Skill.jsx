@@ -11,54 +11,44 @@ function Skill() {
      
         <div className='skill1'
          data-aos="fade-up"
-          data-aos-duration="1500">
-            HTML 5</div>
+          data-aos-duration="1500">HTML</div>
 
         <div className='skill1'
          data-aos="fade-up"
-          data-aos-duration="1600">
-          CSS 3</div>
+          data-aos-duration="1600">CSS</div>
 
           <div className='skill1'
          data-aos="fade-up"
-          data-aos-duration="1700">
-            Tailwind</div> 
+          data-aos-duration="1700">Tailwind</div> 
             
 
         <div className='skill1'
          data-aos="fade-up"
-          data-aos-duration="1800">
-            JavaScript</div> 
+          data-aos-duration="1800">JavaScript</div> 
 
         <div className='skill1'
          data-aos="fade-up"
-          data-aos-duration="1900">
-            Bootstrap</div> 
+          data-aos-duration="1900">Bootstrap</div> 
 
         <div className='skill1'
          data-aos="fade-up"
-          data-aos-duration="2000">
-            React.js</div> 
+          data-aos-duration="2000">React</div> 
 
         <div className='skill1'
          data-aos="fade-up"
-          data-aos-duration="2100">
-            Node.js</div> 
+          data-aos-duration="2100">Node</div> 
 
         <div className='skill1'
          data-aos="fade-up"
-          data-aos-duration="2200">
-            Express</div> 
+          data-aos-duration="2200">Express</div> 
 
         <div className='skill1'
          data-aos="fade-up"
-          data-aos-duration="2300">
-            MongoDb</div> 
+          data-aos-duration="2300">MongoDb</div> 
 
         <div className='skill1'
          data-aos="fade-up"
-          data-aos-duration="4400">
-            Git & Github</div> 
+          data-aos-duration="4400">Git&Github</div> 
 
       </div>
       
