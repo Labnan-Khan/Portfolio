@@ -36,4 +36,7 @@
     color: black;
     background-color: white;
     box-shadow: 1px 1px 5px rgb(2, 15, 92); 
+    text-align: center;
+    min-width: max-content;
+    max-width: 350px;
 }
