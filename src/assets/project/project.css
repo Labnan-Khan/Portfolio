@@ -44,16 +44,21 @@
 
 .sUsed{
     display: flex;
-    margin-left: 0px;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: start;
+    margin: 0px;
+    padding: 0px;
+    gap: 10px;
+    margin-top: 10px;
 }
 .pcDetail .su{
-    width:fit-content;
-    margin: 10px 3px;
-    margin-bottom: 0px;
-    padding: 10px;
-    border-radius: 10px;
+     width:fit-content;
     font-weight: 500;
-    color: white;
-    background-color: black;
+    color: rgb(20, 18, 18);
+    background-color: rgb(110, 186, 248);
+    border-radius: 10%;
+    padding: 3px;
+    box-shadow: 1px 1px 5px black;
 }
 
